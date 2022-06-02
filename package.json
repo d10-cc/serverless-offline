@@ -1,7 +1,7 @@
 {
   "dedicatedTo": "Blue, a great migrating bird.",
   "name": "serverless-offline",
-  "version": "8.8.0",
+  "version": "8.8.1",
   "description": "Emulate AWS λ and API Gateway locally when developing your Serverless project",
   "license": "MIT",
   "main": "dist/main.js",
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dherault/serverless-offline.git"
+    "url": "git+https://github.com/d10-cc/serverless-offline.git"
   },
   "bugs": {
-    "url": "https://github.com/dherault/serverless-offline/issues"
+    "url": "https://github.com/d10-cc/serverless-offline/issues"
   },
-  "homepage": "https://github.com/dherault/serverless-offline",
+  "homepage": "https://github.com/d10-cc/serverless-offline",
   "keywords": [
     "serverless",
     "serverless framework",

@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [8.8.1](https://github.com/dherault/serverless-offline/compare/v8.8.0...v8.8.1) (2022-06-02)
+
+### Bug Fixes
+
+- secure web sockets ([e1d4f1b](https://github.com/dherault/serverless-offline/commit/e1d4f1bc603947a1d0b3e749bdb6c960b545f484))
+
 ## [8.8.0](https://github.com/dherault/serverless-offline/compare/v8.7.0...v8.8.0) (2022-05-17)
 
 ### Features
